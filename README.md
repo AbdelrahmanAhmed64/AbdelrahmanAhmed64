@@ -1,6 +1,6 @@
 # Hi, I'm Abdelrahman Ahmed 👋
 
-### Aspiring Data Analyst | AI Student | Business & Marketing Analytics
+### Aspiring Data Analyst | AI Student 
 
 I'm a Computer Science and Artificial Intelligence student specializing in Artificial Intelligence, currently building my career in **Data Analysis**.
 
